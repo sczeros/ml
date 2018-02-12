@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/Python/Python-3.6.3/Lib/site-packages/matplotlib/pyplot.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ML_In_Action/bayes/email/ham/1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ML_In_Action/bayes/email/ham/2.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ML_In_Action/bayes/email/ham/23.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ML_In_Action/bayes/email/spam/1.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/ML_In_Action/bayes/email/spam/2.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/西瓜数据集 3.0.csv" charset="GBK" />
+  </component>
+</project>
