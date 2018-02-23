@@ -15,6 +15,7 @@ mnist_test = gluon.data.vision.FashionMNIST(train = False, transform = transform
 #定义模型
 net = gluon.nn.Sequential()
 with net.name_scope():
+    #net.add(gluon.nn.Flatten())
     net.add(gluon.nn.Dense(256, activation = 'relu'))
     net.add(gluon.nn.Dense(10))
 
